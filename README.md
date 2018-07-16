@@ -5,12 +5,10 @@
 # What is karu?
 > a bot with entertainment, link shortener, kill users and more!
 
-## View CHANGELOG
-[Go to Changelog](./CHANGELOG.md)
 
 ### Commands
 * * *
-* All commands with prefix **//**
+* All commands with prefix **// or (customizable)**
 
 |Type|Command|Use |Example|
 |--|--|--|--|
