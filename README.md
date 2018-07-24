@@ -1,6 +1,3 @@
-<p align="center">
-  <a href="https://discord.gg/MADjZPw"><img src="https://discordapp.com/api/guilds/374658779590950922/widget.png?style=banner2" alt="Discord server"></a>
-</p>
 
 # What is karu?
 > a bot with entertainment, link shortener, kill users and more!
